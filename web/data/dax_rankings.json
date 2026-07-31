@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "updated": "2026-07-30T15:52:27",
-    "updated_display": "30.07.2026 15:52",
+    "updated": "2026-07-31T08:51:19",
+    "updated_display": "31.07.2026 08:51",
     "total_analyzed": 39,
     "failed": 1,
     "rsl_period_days": 26,
@@ -43,10 +43,10 @@
       "pct_over_ma50": 14.05,
       "pct_over_ma200": 24.07,
       "pct_from_high": 0.0,
-      "vol_ratio": 1.12,
+      "vol_ratio": 1.13,
       "rel_vs_dax": 14.2,
       "beta": 0.914,
-      "pe_ratio": 31.025476,
+      "pe_ratio": 31.082802,
       "div_yield": 391.0,
       "atr_pct": 2.6,
       "atr_warning": false
@@ -69,7 +69,7 @@
       "vol_ratio": 1.42,
       "rel_vs_dax": 15.4,
       "beta": 0.743,
-      "pe_ratio": 23.341318,
+      "pe_ratio": 23.332336,
       "div_yield": 154.0,
       "atr_pct": 4.21,
       "atr_warning": false
@@ -92,7 +92,7 @@
       "vol_ratio": 0.97,
       "rel_vs_dax": 17.61,
       "beta": 0.427,
-      "pe_ratio": 50.15845,
+      "pe_ratio": 51.43486,
       "div_yield": 100.0,
       "atr_pct": 3.97,
       "atr_warning": false
@@ -115,7 +115,7 @@
       "vol_ratio": 0.85,
       "rel_vs_dax": 10.67,
       "beta": 0.514,
-      "pe_ratio": 39.240505,
+      "pe_ratio": 38.98734,
       "div_yield": 308.0,
       "atr_pct": 2.69,
       "atr_warning": false
@@ -138,7 +138,7 @@
       "vol_ratio": 1.22,
       "rel_vs_dax": 6.21,
       "beta": 0.826,
-      "pe_ratio": 20.0,
+      "pe_ratio": 19.932796,
       "div_yield": 266.0,
       "atr_pct": 2.72,
       "atr_warning": false
@@ -161,7 +161,7 @@
       "vol_ratio": 0.99,
       "rel_vs_dax": 3.67,
       "beta": 0.736,
-      "pe_ratio": 21.529411,
+      "pe_ratio": 21.60084,
       "div_yield": 442.0,
       "atr_pct": 2.36,
       "atr_warning": false
@@ -184,7 +184,7 @@
       "vol_ratio": 0.65,
       "rel_vs_dax": 9.42,
       "beta": 0.822,
-      "pe_ratio": 16.74627,
+      "pe_ratio": 16.929104,
       "div_yield": 236.0,
       "atr_pct": 2.1,
       "atr_warning": false
@@ -207,7 +207,7 @@
       "vol_ratio": 0.92,
       "rel_vs_dax": 7.31,
       "beta": 1.574,
-      "pe_ratio": 65.795456,
+      "pe_ratio": 65.61364,
       "div_yield": 0.0,
       "atr_pct": 3.53,
       "atr_warning": false
@@ -230,7 +230,7 @@
       "vol_ratio": 1.21,
       "rel_vs_dax": 5.21,
       "beta": 0.582,
-      "pe_ratio": 21.371193,
+      "pe_ratio": 21.024931,
       "div_yield": 190.0,
       "atr_pct": 3.46,
       "atr_warning": false
@@ -253,7 +253,7 @@
       "vol_ratio": 0.91,
       "rel_vs_dax": 1.44,
       "beta": 0.948,
-      "pe_ratio": 3.1908398,
+      "pe_ratio": 3.1613958,
       "div_yield": 519.0,
       "atr_pct": 2.07,
       "atr_warning": false
@@ -276,7 +276,7 @@
       "vol_ratio": 0.83,
       "rel_vs_dax": 5.84,
       "beta": 0.824,
-      "pe_ratio": 13.544343,
+      "pe_ratio": 13.7247715,
       "div_yield": 342.0,
       "atr_pct": 1.98,
       "atr_warning": false
@@ -299,7 +299,7 @@
       "vol_ratio": 1.03,
       "rel_vs_dax": 3.05,
       "beta": 0.668,
-      "pe_ratio": 8.920454,
+      "pe_ratio": 8.880681,
       "div_yield": 747.0,
       "atr_pct": 2.38,
       "atr_warning": false
@@ -322,7 +322,7 @@
       "vol_ratio": 1.23,
       "rel_vs_dax": -2.31,
       "beta": 0.981,
-      "pe_ratio": 7.3000956,
+      "pe_ratio": 7.234899,
       "div_yield": 698.0,
       "atr_pct": 2.62,
       "atr_warning": false
@@ -345,7 +345,7 @@
       "vol_ratio": 0.83,
       "rel_vs_dax": 5.33,
       "beta": 0.296,
-      "pe_ratio": 22.749998,
+      "pe_ratio": 22.879309,
       "div_yield": 155.0,
       "atr_pct": 2.37,
       "atr_warning": false
@@ -368,7 +368,7 @@
       "vol_ratio": 0.99,
       "rel_vs_dax": 6.78,
       "beta": 0.485,
-      "pe_ratio": 19.00706,
+      "pe_ratio": 18.94588,
       "div_yield": 122.0,
       "atr_pct": 2.19,
       "atr_warning": false
@@ -391,7 +391,7 @@
       "vol_ratio": 0.88,
       "rel_vs_dax": 1.4,
       "beta": 0.578,
-      "pe_ratio": 51.606743,
+      "pe_ratio": 50.7191,
       "div_yield": 140.0,
       "atr_pct": 2.45,
       "atr_warning": false
@@ -437,7 +437,7 @@
       "vol_ratio": 0.74,
       "rel_vs_dax": 0.03,
       "beta": 0.31,
-      "pe_ratio": 14.972377,
+      "pe_ratio": 14.723757,
       "div_yield": 364.0,
       "atr_pct": 2.44,
       "atr_warning": false
@@ -460,7 +460,7 @@
       "vol_ratio": 0.74,
       "rel_vs_dax": 6.62,
       "beta": 1.132,
-      "pe_ratio": 18.711975,
+      "pe_ratio": 18.763754,
       "div_yield": 332.0,
       "atr_pct": 1.7,
       "atr_warning": false
@@ -483,7 +483,7 @@
       "vol_ratio": 0.87,
       "rel_vs_dax": 0.72,
       "beta": 1.291,
-      "pe_ratio": 29.069286,
+      "pe_ratio": 29.523811,
       "div_yield": 197.0,
       "atr_pct": 2.21,
       "atr_warning": false
@@ -506,7 +506,7 @@
       "vol_ratio": 0.77,
       "rel_vs_dax": 3.33,
       "beta": 0.747,
-      "pe_ratio": 24.589844,
+      "pe_ratio": 24.277346,
       "div_yield": 207.0,
       "atr_pct": 1.97,
       "atr_warning": false
@@ -529,7 +529,7 @@
       "vol_ratio": 0.94,
       "rel_vs_dax": 2.06,
       "beta": null,
-      "pe_ratio": 9.683891,
+      "pe_ratio": 9.7720375,
       "div_yield": 320.0,
       "atr_pct": 2.75,
       "atr_warning": false
@@ -552,7 +552,7 @@
       "vol_ratio": 0.95,
       "rel_vs_dax": -3.46,
       "beta": 0.758,
-      "pe_ratio": 5.3780165,
+      "pe_ratio": 5.352994,
       "div_yield": 730.0,
       "atr_pct": 2.23,
       "atr_warning": false
@@ -575,7 +575,7 @@
       "vol_ratio": 0.8,
       "rel_vs_dax": 3.52,
       "beta": 0.66,
-      "pe_ratio": 13.937339,
+      "pe_ratio": 14.053618,
       "div_yield": 399.0,
       "atr_pct": 1.26,
       "atr_warning": false
@@ -598,7 +598,7 @@
       "vol_ratio": 0.91,
       "rel_vs_dax": 2.01,
       "beta": 0.569,
-      "pe_ratio": 15.451219,
+      "pe_ratio": 15.430894,
       "div_yield": 272.0,
       "atr_pct": 1.81,
       "atr_warning": false
@@ -621,7 +621,7 @@
       "vol_ratio": 0.89,
       "rel_vs_dax": 2.87,
       "beta": 0.643,
-      "pe_ratio": 20.92442,
+      "pe_ratio": 20.726746,
       "div_yield": 83.0,
       "atr_pct": 2.73,
       "atr_warning": false
@@ -644,7 +644,7 @@
       "vol_ratio": 0.83,
       "rel_vs_dax": 3.58,
       "beta": 0.127,
-      "pe_ratio": 10.596138,
+      "pe_ratio": 10.630253,
       "div_yield": 488.0,
       "atr_pct": 1.93,
       "atr_warning": false
@@ -667,7 +667,7 @@
       "vol_ratio": 0.56,
       "rel_vs_dax": -5.29,
       "beta": 0.825,
-      "pe_ratio": 24.502575,
+      "pe_ratio": 24.88851,
       "div_yield": 152.0,
       "atr_pct": 2.4,
       "atr_warning": false
@@ -690,7 +690,7 @@
       "vol_ratio": 0.89,
       "rel_vs_dax": -3.74,
       "beta": 0.896,
-      "pe_ratio": 19.351702,
+      "pe_ratio": 19.627228,
       "div_yield": 101.0,
       "atr_pct": 2.86,
       "atr_warning": false
@@ -759,7 +759,7 @@
       "vol_ratio": 0.78,
       "rel_vs_dax": 2.11,
       "beta": 0.819,
-      "pe_ratio": 14.366412,
+      "pe_ratio": 14.511451,
       "div_yield": 305.0,
       "atr_pct": 1.97,
       "atr_warning": false
@@ -782,7 +782,7 @@
       "vol_ratio": 0.69,
       "rel_vs_dax": -2.58,
       "beta": 0.675,
-      "pe_ratio": 17.207373,
+      "pe_ratio": 17.470045,
       "div_yield": 299.0,
       "atr_pct": 2.61,
       "atr_warning": false
@@ -805,7 +805,7 @@
       "vol_ratio": 0.76,
       "rel_vs_dax": -1.06,
       "beta": 0.579,
-      "pe_ratio": 17.257668,
+      "pe_ratio": 17.656443,
       "div_yield": 216.0,
       "atr_pct": 2.6,
       "atr_warning": false
@@ -828,7 +828,7 @@
       "vol_ratio": 0.75,
       "rel_vs_dax": -1.03,
       "beta": 1.485,
-      "pe_ratio": 5.3123426,
+      "pe_ratio": 5.3299747,
       "div_yield": 593.0,
       "atr_pct": 2.25,
       "atr_warning": false
@@ -851,7 +851,7 @@
       "vol_ratio": 0.88,
       "rel_vs_dax": -13.14,
       "beta": 0.912,
-      "pe_ratio": 14.726947,
+      "pe_ratio": 14.40018,
       "div_yield": 213.0,
       "atr_pct": 2.97,
       "atr_warning": false
@@ -874,7 +874,7 @@
       "vol_ratio": 1.11,
       "rel_vs_dax": -13.05,
       "beta": 1.897,
-      "pe_ratio": 57.54331,
+      "pe_ratio": 59.291344,
       "div_yield": 52.0,
       "atr_pct": 5.4,
       "atr_warning": true
@@ -897,7 +897,7 @@
       "vol_ratio": 2.27,
       "rel_vs_dax": -11.83,
       "beta": 1.209,
-      "pe_ratio": 20.860285,
+      "pe_ratio": 20.789133,
       "div_yield": 154.0,
       "atr_pct": 4.07,
       "atr_warning": false
@@ -920,7 +920,7 @@
       "vol_ratio": 1.08,
       "rel_vs_dax": -29.95,
       "beta": 1.983,
-      "pe_ratio": 72.52439,
+      "pe_ratio": 76.70732,
       "div_yield": 64.0,
       "atr_pct": 6.65,
       "atr_warning": true
